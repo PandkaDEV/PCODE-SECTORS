@@ -1,4 +1,4 @@
-##INFO
+#INFO
 Witam, chciałbym sprzedać pluginy na sektory + src 
 pluginy są bardzo zoptymalizowane oraz całe sektory opierają się na aplikacji która jest uruchomiona na innej maszynie vps/dedyk aplikacja ta powoduje że sektory nie odczują żadnego spadku tick'a na serwerze również dorzucam discord-bot.
 Tak jeszcze dla wyjaśnienia plugin działa na zasadzie że jest to pare serwerów(min 5 licząc spawn) które posiadają tą samą mape/ekwipunek gracza/oraz inne informację na temat danego gracza a więc tak wygląda to w ten sposób sektor czyli jeden serwer
